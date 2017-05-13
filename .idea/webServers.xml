@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="96dfd274-519b-4389-a89b-d230efc50ec1" name="fb3752no" url="http://fb3752no.beget.tech">
-        <fileTransfer host="fb3752no.beget.tech" port="21" rootFolder="/fb3752no.bget.ru/public_html">
+        <fileTransfer host="fb3752no.beget.tech" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
